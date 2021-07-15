@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/hectormoreirac" target="blank"><img src="https://img.shields.io/twitter/follow/hectormoreirac?logo=twitter&style=for-the-badge" alt="hectormoreirac" /></a> </p>
 
-- 🌱 I’m currently learning **React Native and Firebase**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **.NET, React, Azure, REST, Web development, Middleware for integrations**
+- 💬 Ask me about **.NET Core, React, Azure, REST, Web development, Middleware for integrations, VTEX / VTEX IO**
 
 - 📫 How to reach me **hector.moreirac@gmail.com**
 
