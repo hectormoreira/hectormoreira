@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **.NET Core, React, Azure, REST, Web development, Middleware for integrations, VTEX / VTEX IO**
+- 💬 Ask me about **.NET Core, React, JavaScript, Azure, REST, Web development, Middleware for integrations, VTEX / VTEX IO**
 
 - 📫 How to reach me **hector.moreirac@gmail.com**
 
