@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.NET Core, React, JavaScript, Azure, REST, Web development, Middleware for integrations, VTEX / VTEX IO**
 
-- 📫 How to reach me **hector.moreirac@gmail.com**
+- 📫 How to reach me **me@hectormoreira.dev**
 
 - 🌎 Coming Soon [hectormoreira.dev](https://hectormoreira.dev/)
 
